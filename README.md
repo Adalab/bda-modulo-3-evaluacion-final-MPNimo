@@ -1,6 +1,6 @@
 # ✈️ Análisis de Clientes de un Programa de Lealtad Aérea
 
-Este proyecto corresponde al **ejercicio de evaluación final del Módulo 3 de Data Analytics**.  
+Este proyecto corresponde al **ejercicio de evaluación final del Módulo 3**.  
 El objetivo es realizar un análisis exploratorio, limpieza, visualización y evaluación estadística sobre los datos de clientes de un programa de lealtad de una aerolínea.
 
 ---
