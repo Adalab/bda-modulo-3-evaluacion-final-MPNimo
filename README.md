@@ -1,7 +1,6 @@
 # Análisis de los clientes dentro de un programa de lealtad de una aerolínea.
 
 Proyecto correspondiente al *ejercicio de evaluación final del módulo 3*.  
-Se tiene como objetivo realizar un análisis exploratorio, limpieza, visualización y estadísticas descriptivas e inferenciales sobre los datos de los clientes de un programa de lealtad de una aerolínea.
 
 ---
 
@@ -62,7 +61,7 @@ Creación de gráficas con `matplotlib` y `seaborn` para responder a las siguien
 ---
 
 ## Objetivo del proyecto
-El ejercicio tiene como finalidad aplicar técnicas de análisis exploratorio, limpieza y visualización de datos en un contexto realista, así como desarrollar competencias en estadística descriptiva e inferencial.  
+Se tiene como objetivo realizar un análisis exploratorio, limpieza, visualización y estadísticas descriptivas e inferenciales sobre los datos de los clientes de un programa de lealtad de una aerolínea.  
 
 ---
 
