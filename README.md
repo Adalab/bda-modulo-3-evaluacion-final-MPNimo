@@ -1,7 +1,7 @@
-# ✈️ Análisis de Clientes de un Programa de Lealtad Aérea
+# Análisis de los clientes dentro de un programa de lealtad de una aerolínea.
 
-Este proyecto corresponde al **ejercicio de evaluación final del Módulo 3**.  
-El objetivo es realizar un análisis exploratorio, limpieza, visualización y evaluación estadística sobre los datos de clientes de un programa de lealtad de una aerolínea.
+Proyecto correspondiente al *ejercicio de evaluación final del módulo 3*.  
+Se tiene como objetivo realizar un análisis exploratorio, limpieza, visualización y estadísticas descriptivas e inferenciales sobre los datos de los clientes de un programa de lealtad de una aerolínea.
 
 ---
 
